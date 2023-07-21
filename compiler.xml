@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wind-common-base" />
+        <module name="wind-common-oss" />
+        <module name="wind-common-email" />
+        <module name="wind-common-quartz" />
+        <module name="wind-common-utils" />
+        <module name="wind-vue" />
+        <module name="wind-common-tenant" />
+        <module name="wind-common-datarule" />
+        <module name="wind-common-sms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="wind-common" options="-parameters" />
+      <module name="wind-common-base" options="-parameters" />
+      <module name="wind-common-datarule" options="-parameters" />
+      <module name="wind-common-email" options="-parameters" />
+      <module name="wind-common-oss" options="-parameters" />
+      <module name="wind-common-quartz" options="-parameters" />
+      <module name="wind-common-sms" options="-parameters" />
+      <module name="wind-common-tenant" options="-parameters" />
+      <module name="wind-common-utils" options="-parameters" />
+      <module name="wind-server" options="-parameters" />
+      <module name="wind-vue" options="-parameters" />
+      <module name="wind-web" options="-parameters" />
+    </option>
+  </component>
+</project>

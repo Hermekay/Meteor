@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-common/wind-common-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-common/wind-common-datarule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-common/wind-common-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-common/wind-common-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-common/wind-common-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-common/wind-common-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-common/wind-common-tenant/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-common/wind-common-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wind-web/wind-vue/src/main/java" charset="UTF-8" />
+  </component>
+</project>
